@@ -5,12 +5,16 @@
 
 ### W2     
 #### SQL Exercises 1 and 2
+- Exercise 1: SQL
+- Exercise 2: Functions
   
 ***
 
 ### W3     
 #### SQL Exercises 3 and 4
-
+- Exercise 3: Dates
+- Exercise 4: Joins
+  
 ***
 
 ### W4     
