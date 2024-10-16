@@ -19,6 +19,8 @@
 
 ### W4     
 #### SQL Exercises 5 and 6
+- Exercise 5: Group by
+- Exercise 6: Subqueries
 
 ***
 
